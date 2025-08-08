@@ -21,3 +21,47 @@ All product images in the `/images` directory are © 2025 [Your Name]. All right
 - Optimize for web (800-1200px wide)
 - Keep consistent aspect ratios
 - Target 100-500KB file size per image
+
+├── index.html
+├── README.md
+├── LICENSE
+└── images/
+    └── products/
+        ├── headphones/
+        │   ├── headphones-1.jpg
+        │   ├── headphones-2.jpg
+        │   └── headphones-3.jpg
+        ├── smartwatch/
+        │   ├── watch-1.jpg
+        │   ├── watch-2.jpg
+        │   └── watch-3.jpg
+        ├── laptop-stand/
+        │   ├── stand-1.jpg
+        │   └── stand-2.jpg
+        ├── wireless-charger/
+        │   ├── charger-1.jpg
+        │   ├── charger-2.jpg
+        │   └── charger-3.jpg
+        ├── bluetooth-speaker/
+        │   ├── speaker-1.jpg
+        │   ├── speaker-2.jpg
+        │   └── speaker-3.jpg
+        ├── coffee-maker/
+        │   ├── coffee-1.jpg
+        │   ├── coffee-2.jpg
+        │   └── coffee-3.jpg
+        ├── gaming-mouse/
+        │   ├── mouse-1.jpg
+        │   └── mouse-2.jpg
+        ├── desk-organizer/
+        │   ├── organizer-1.jpg
+        │   ├── organizer-2.jpg
+        │   └── organizer-3.jpg
+        ├── led-desk-lamp/
+        │   ├── lamp-1.jpg
+        │   ├── lamp-2.jpg
+        │   └── lamp-3.jpg
+        └── phone-stand/
+            ├── stand-1.jpg
+            ├── stand-2.jpg
+            └── stand-3.jpg
